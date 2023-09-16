@@ -17,4 +17,3 @@ with open("text.txt","r")as file:
             print("Вы успешно вошли в систему")
     else:
         print("------------")
-        break       
